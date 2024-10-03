@@ -65,6 +65,7 @@ for (let i = 1; i <= N2; i++) {
   sum += i;
  }
 console.log(n1);
+console.log(n1);
 
 
 
